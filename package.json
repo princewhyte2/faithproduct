@@ -10,8 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
-    "crypto": "^1.0.1",
     "express": "^4.17.2",
-    "wallet-validator": "^0.3.10"
+    "uuid": "^8.3.2"
   }
 }
